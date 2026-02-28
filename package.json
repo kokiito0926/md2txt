@@ -35,6 +35,9 @@
 		"test": "node --test"
 	},
 	"dependencies": {
+		"gray-matter": "^4.0.3",
+		"lodash": "^4.17.23",
+		"markdown-to-txt": "^2.0.1",
 		"zx": "^8.8.5"
 	},
 	"engines": {
