@@ -1,6 +1,6 @@
 {
 	"name": "@kokiito0926/md2txt",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"private": false,
 	"description": "マークダウンからプレーンテキストに変換することができるコマンドラインのツールです。",
 	"keywords": [
